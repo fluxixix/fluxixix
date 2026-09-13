@@ -4,6 +4,8 @@
   <img src="fluxixix.svg" width="267" height="63" alt="fluxixix" />
 </a>
 
+<br />
+
 <a href="https://fluxixix.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=BD34FE&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=70&amp;lines=less+is+more;writing+to+think" alt="less is more" />
 </a>
