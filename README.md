@@ -4,7 +4,11 @@
   <img src="fluxixix.svg" width="267" height="63" alt="fluxixix" />
 </a>
 
-<p>less is more</p>
+<a href="https://fluxixix.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=BD34FE&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=70&amp;lines=less+is+more;writing+to+think" alt="less is more" />
+</a>
+
+<br />
 
 <a href="https://fluxixix.github.io"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-fluxixix.github.io-BD34FE?style=flat-square&amp;logo=gitbook&amp;logoColor=white" alt="博客" /></a>
 <a href="https://fluxixix.github.io/feed.xml"><img src="https://img.shields.io/badge/RSS-%E8%AE%A2%E9%98%85-41D1FF?style=flat-square&amp;logo=rss&amp;logoColor=white" alt="RSS" /></a>
