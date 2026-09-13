@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/lazygit-1B1B1F?style=flat-square" alt="lazygit" />
   <img src="https://img.shields.io/badge/btop-1B1B1F?style=flat-square" alt="btop" />
   <img src="https://img.shields.io/badge/Raycast-1B1B1F?style=flat-square" alt="Raycast" />
-  <img src="https://img.shields.io/badge/Karabiner--Elements-1B1B1F?style=flat-square" alt="Karabiner-Elements" />
 </p>
 
 ### 这个博客
@@ -54,16 +53,3 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-1B1B1F?style=flat-square&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Vercel-1B1B1F?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
 </p>
-
-### 统计
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fluxixix&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;bg_color=1B1B1F&amp;title_color=BD34FE&amp;text_color=C9C9CE&amp;icon_color=41D1FF" alt="GitHub 统计" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluxixix&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;bg_color=1B1B1F&amp;title_color=BD34FE&amp;text_color=C9C9CE" alt="常用语言" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=fluxixix&amp;hide_border=true&amp;background=1B1B1F&amp;stroke=2E2E32&amp;ring=BD34FE&amp;fire=41D1FF&amp;currStreakLabel=BD34FE&amp;currStreakNum=C9C9CE&amp;sideLabels=C9C9CE&amp;sideNums=C9C9CE&amp;dates=6B7280" alt="连续提交" />
-
-</div>
